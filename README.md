@@ -2,7 +2,7 @@
 
 PyLadies Tokyoの参会者やスタッフが考えたPythonの課題です。
 
-設定方法などは、[運用補法](operation.md) を参照ください。
+設定方法などは、[運用方法](operation.md) を参照ください。
 
 
 
