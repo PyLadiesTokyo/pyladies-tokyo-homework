@@ -8,4 +8,4 @@ PyLadies Tokyoの参会者やスタッフが考えたPythonの課題です。
 
 ## 目次
 
-- 001: 素数を表示しよう [question](questions/001/README.md) / [answer](answer/001/)
+- 001: 素数を表示しよう [question](questions/001/README.md) / [answer](answers/001/)
